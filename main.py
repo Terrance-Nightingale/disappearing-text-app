@@ -1,9 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 
-# TODO Add a 5 second timer that resets back to 5 whenever the user types
-#     -This will be a bar that updates in length and turns more red as time passes.
-
 BAR_COLOR = '#cc2342'
 TROUGH_COLOR = '#ccc8c9'
 window = Tk()
